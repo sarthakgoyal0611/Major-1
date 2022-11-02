@@ -1,5 +1,4 @@
 # Major-1
-sarthakgoyal0611/Major-1
 One of the causes that intruders can be successful is that most of the information they acquire from a system is in a form that they can read and comprehend. Intruders may disclose the information to others, modify it to misrepresent an individual or organization, or use it to dispatch an attack. One key solution to this problem is, through the use of steganography.
 Steganography is the procedure of hiding of a secret message within an ordinary message or image and extracting it to its required genuine destination. Steganography is the art of invisible communication by concealing information inside different information.
 A steganography system consists of 3 elements: cover-object (which hides the key message), the key message and therefore the stego-object (which is that the cowl object with message embedded within it.) A digital image is represented employing a 2-D matrix of the color intestines at every grid purpose (i.e. pixel). Typically, grey pictures use eight bits. The most important objective of Steganography is especially involved with the protection of contents of the hidden info. 
